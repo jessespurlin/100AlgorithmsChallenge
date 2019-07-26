@@ -22,3 +22,6 @@ function addTwoDigits(n: any): number {
 }
 
 console.log(addTwoDigits(29));
+console.log(addTwoDigits(1111));
+console.log(addTwoDigits(666));
+console.log(addTwoDigits(420));
